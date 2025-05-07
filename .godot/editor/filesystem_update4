@@ -1,0 +1,17 @@
+res://addons/godot_core_system/examples/audio_demo/audio_demo.tscn
+res://resources/global/theme/tres/theme.tres
+res://resources/preload/particle_process_material/tres/game_button.tres
+res://scenes/scene/boot_splash_scene/boot_splash_scene.tscn
+res://scenes/component/audio/button_audio/button_audio.tscn
+res://scenes/component/builder/ui_builder/ui_builder.tscn
+res://scenes/scene/game_scene/game_content/clicks_counter/clicks_counter.tscn
+res://scenes/scene/game_scene/game_content/game_button/game_button.tscn
+res://scenes/scene/game_scene/pause_menu/pause_menu.tscn
+res://scenes/node/menu/menu_button/menu_button.tscn
+res://addons/scene_manager/ignore_item.tscn
+res://addons/scene_manager/scene_item.tscn
+res://addons/scene_manager/menu.tscn
+res://addons/scene_manager/sub_section.tscn
+res://artifacts/example_3d_fp_controller/scenes/game_content/game_content.tscn
+res://artifacts/example_3d_fp_controller/scenes/player/player.tscn
+res://artifacts/example_empty_project/scenes/game_content/game_content.tscn
